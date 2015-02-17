@@ -1,0 +1,17 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aselbie/codewars.git"
+  },
+  "dependencies": {
+    "chai": "^2.0.0",
+    "gulp": "^3.8.11",
+    "gulp-mocha": "^2.0.0",
+    "mocha": "^2.1.0"
+  }
+}
